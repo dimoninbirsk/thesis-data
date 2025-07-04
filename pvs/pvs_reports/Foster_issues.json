@@ -1,0 +1,104 @@
+{
+  "V3024": {
+    "code": "V3024",
+    "cwe": [
+      "682"
+    ],
+    "sastId": null,
+    "level": 0,
+    "count": 1,
+    "example": ""
+  },
+  "V5609": {
+    "code": "V5609",
+    "cwe": [
+      "22"
+    ],
+    "sastId": null,
+    "level": 0,
+    "count": 1,
+    "example": ""
+  },
+  "V3100": {
+    "code": "V3100",
+    "cwe": [
+      "476"
+    ],
+    "sastId": null,
+    "level": 0,
+    "count": 1,
+    "example": ""
+  },
+  "V3041": {
+    "code": "V3041",
+    "cwe": [
+      "682"
+    ],
+    "sastId": null,
+    "level": 0,
+    "count": 1,
+    "example": ""
+  },
+  "V3010": {
+    "code": "V3010",
+    "cwe": [
+      "252"
+    ],
+    "sastId": null,
+    "level": 0,
+    "count": 1,
+    "example": ""
+  },
+  "V3063": {
+    "code": "V3063",
+    "cwe": [
+      "570"
+    ],
+    "sastId": null,
+    "level": 0,
+    "count": 1,
+    "example": ""
+  },
+  "V5606": {
+    "code": "V5606",
+    "cwe": [
+      "1069"
+    ],
+    "sastId": null,
+    "level": 0,
+    "count": 1,
+    "example": ""
+  },
+  "V3072": {
+    "code": "V3072",
+    "cwe": [],
+    "sastId": null,
+    "level": 0,
+    "count": 1,
+    "example": ""
+  },
+  "V3073": {
+    "code": "V3073",
+    "cwe": [],
+    "sastId": null,
+    "level": 0,
+    "count": 1,
+    "example": ""
+  },
+  "V3139": {
+    "code": "V3139",
+    "cwe": [],
+    "sastId": null,
+    "level": 0,
+    "count": 1,
+    "example": ""
+  },
+  "V3109": {
+    "code": "V3109",
+    "cwe": [],
+    "sastId": null,
+    "level": 0,
+    "count": 1,
+    "example": ""
+  }
+}
